@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    prdp  prd1@gmail.com
 
 # THANKS
 
